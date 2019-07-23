@@ -30,5 +30,5 @@ var calendar = new Calendar(calendarEl, {
 You can dynamically set a calendar's contentHeight after initialization:
 
 ```js
-calendar.option('contentHeight', 650);
+calendar.setOption('contentHeight', 650);
 ```
